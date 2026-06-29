@@ -461,7 +461,7 @@ export default function Portfolio() {
                 <span className="hp-contact-label">phone</span>
                 <span className="hp-contact-val">+855 78 800 234</span>
               </a>
-              {/* Replace href below with your GitHub URL */}
+             <a className="hp-contact-card" href="https://github.com/blotalt" target="_blank" rel="noreferrer"></a>
               <a className="hp-contact-card" href="#" target="_blank" rel="noreferrer">
               <ExternalLink size={18} strokeWidth={2} />
                 <span className="hp-c ontact-label">github</span>
