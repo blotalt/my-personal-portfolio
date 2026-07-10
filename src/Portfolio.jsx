@@ -254,7 +254,7 @@ export default function Portfolio() {
           <Reveal delay={180}>
             <p className="hp-lede">
               I'm a software engineer who builds web applications end to end — React on the surface, Laravel
-              underneath. On the side, capture-the-flag challenges keep my problem-solving sharp.
+              underneath. 
             </p>
           </Reveal>
 
